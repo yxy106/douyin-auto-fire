@@ -1,9 +1,0 @@
-{
-  "accounts": [
-    {
-      "id": "yxy",
-      "enabled": true,
-      "env_file": ".env.account1"
-    }
-  ]
-}
