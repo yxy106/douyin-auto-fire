@@ -1,1 +1,9 @@
-
+{
+  "accounts": [
+    {
+      "id": "柚稚",
+      "enabled": true,
+      "env_file": ".env.account1"
+    }
+  ]
+}
