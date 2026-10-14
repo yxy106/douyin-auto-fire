@@ -15,6 +15,7 @@
         }
       ]
     }
+  ]
   "send_interval_seconds": {
     "min": 3,
     "max": 8
